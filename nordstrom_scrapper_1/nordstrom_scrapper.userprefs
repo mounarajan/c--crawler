@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="nordstrom_scrapper/nordstrom_scrapper.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="nordstrom_scrapper/Program.cs">
+    <Files>
+      <File FileName="nordstrom_scrapper/Program.cs" Line="102" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
